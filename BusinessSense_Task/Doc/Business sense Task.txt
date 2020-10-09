@@ -1,0 +1,13 @@
+Business sense Task
+
+UI:
+we need to create a Cash sales invoice ,save it and recall it , with the ability to modify old invoices.
+ user should be able to search items by [InvItemId] , [ItemBarCode] and  [InvItemName] 
+ user should be able to modify sales price " [InvItemSalesPrice] "
+ for simplicity , no unit of measurement conversion is required
+
+Inquiry and filters : (crystal report)
+there should be a screen for the user to be able to inquiry about : 
+ total sales between dates:
+1- sales by item 
+2- sales by dates 
